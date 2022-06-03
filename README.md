@@ -1,5 +1,9 @@
 # **Generalization Analysis in Autonomous Driving Motion Prediction**
 Can autonomous vehicles perform well in locations they have never been before? This work provides the answer!
+This repository performs an extensive error analysis of two state of the art prediction models in autonomous driving:<br>
+- [Trajectron++](https://github.com/StanfordASL/Trajectron-plus-plus)
+- [MANTRA](https://github.com/Marchetz/MANTRA-CVPR20)
+
 <img src="img/Planning_Prediction.png" width="500"/>
 
 
